@@ -1,19 +1,24 @@
-# Git Basic stuff
+# Git and Github first steps
 
-This document describe basic git stuff
+This document describe the first steps with git and github.
+
+Assumption: Git is already installed on your system
 
 ## Git Initial configuration
 
-Considering git is already installed on your system, take the first steps to configure the git global settings.
+Take the first steps to configure the git global settings:
 
 git config --global user.name "Your Name"
 
 git config --global user.email "you@someplace.com"
 
-### You can check git globla settings by running the following command:
+### Check git global settings by running the following command:
 
 git config --global --list
 
-### You can check git user-based config file
+### Check git user-based config file
 
 cat ~/.gitconfig
+
+## Git initialization
+
