@@ -22,3 +22,8 @@ cat ~/.gitconfig
 
 ## Git initialization
 
+Create or use an existing project directory on your system and, through the git bash or command prompt, navigate to your project directory, the issue the following command to initialize git:
+
+git init (if you're inside the directory) or
+
+git init <directory_name> (if you're one level up)
