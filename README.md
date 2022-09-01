@@ -30,3 +30,4 @@ git init <directory_name> (if you're one level up)
 
 ## Git commit
 
+* Testing new branch testing-branch
