@@ -27,3 +27,5 @@ Create or use an existing project directory on your system and, through the git 
 git init (if you're inside the directory) or
 
 git init <directory_name> (if you're one level up)
+
+## Starting using git
