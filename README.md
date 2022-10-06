@@ -33,3 +33,5 @@ git init <directory_name> (if you're one level up)
 When you start working on your project you end up creating some files and making lots of changes in it. You can can use the following commands to check the changes and/or keep tracking those changes.
 
 git status
+
+Check
