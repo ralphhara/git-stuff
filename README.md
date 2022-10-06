@@ -28,6 +28,4 @@ git init (if you're inside the directory) or
 
 git init <directory_name> (if you're one level up)
 
-## Git commit
-
-* Testing new branch testing-branch
+## Starting using git
