@@ -39,3 +39,7 @@ git status
 Before commit the changes you made to your files you must put them in a staging area which you can do by running the following command.
 
 git add <file_name>
+
+Confirm if your files have been staged
+
+git status
